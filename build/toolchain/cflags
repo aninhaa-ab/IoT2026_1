@@ -1,2 +1,0 @@
--march=rv32imac_zicsr_zifencei_zaamo_zalrsc
-"-specs=C:/Users/Laptop/Documents/Iot/mqtt_ifpb/build/specs/picolibc.specs"
