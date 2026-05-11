@@ -4,15 +4,13 @@
  
 ---
  
-**Disciplina:** Internet das Coisas (IoT)
-**Instituição:** Instituto Federal da Paraíba (IFPB)
+**Disciplina:** Internet das Coisas (IoT)  **Instituição:** Instituto Federal da Paraíba (IFPB)
  
 **Grupo:**
 - Alberto Viturino Mamede
 - Ana Beatriz Belo de Assis Menezes
 - Felipe de Freitas Sales dos Santos
-- Irene Isley Silva de Vasconcelos
-**Data:** Maio de 2026
+- Irene Isley Silva de Vasconcelos  **Data:** Maio de 2026
  
 ---
  
