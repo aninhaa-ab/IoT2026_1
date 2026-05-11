@@ -6,7 +6,7 @@
  
 **Disciplina:** Internet das Coisas (IoT)  
 
-**Instituição:** Instituto Federal da Paraíba (IFPB)
+**Instituição:** Instituto Federal da Paraíba (IFPB), Campus Campina Grande
  
 **Grupo:**
 - Alberto Viturino Mamede
@@ -14,7 +14,7 @@
 - Felipe de Freitas Sales dos Santos
 - Irene Isley Silva de Vasconcelos
 
-**Data:** Maio de 2026
+**Data:** 11 de Maio de 2026
  
 ---
  
